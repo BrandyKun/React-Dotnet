@@ -1,0 +1,15 @@
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Persistance/bin/Debug/net5.0/Persistance.deps.json
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Persistance/bin/Debug/net5.0/Persistance.dll
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Persistance/bin/Debug/net5.0/ref/Persistance.dll
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Persistance/bin/Debug/net5.0/Persistance.pdb
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Persistance/bin/Debug/net5.0/Domain.dll
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Persistance/bin/Debug/net5.0/Domain.pdb
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Persistance/obj/Debug/net5.0/Persistance.csprojAssemblyReference.cache
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Persistance/obj/Debug/net5.0/Persistance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Persistance/obj/Debug/net5.0/Persistance.AssemblyInfoInputs.cache
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Persistance/obj/Debug/net5.0/Persistance.AssemblyInfo.cs
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Persistance/obj/Debug/net5.0/Persistance.csproj.CoreCompileInputs.cache
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Persistance/obj/Debug/net5.0/Persistance.csproj.CopyComplete
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Persistance/obj/Debug/net5.0/Persistance.dll
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Persistance/obj/Debug/net5.0/ref/Persistance.dll
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Persistance/obj/Debug/net5.0/Persistance.pdb

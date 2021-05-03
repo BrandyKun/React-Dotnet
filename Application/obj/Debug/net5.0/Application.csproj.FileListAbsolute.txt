@@ -1,0 +1,17 @@
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Application/bin/Debug/net5.0/Application.deps.json
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Application/bin/Debug/net5.0/Application.dll
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Application/bin/Debug/net5.0/ref/Application.dll
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Application/bin/Debug/net5.0/Application.pdb
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Application/bin/Debug/net5.0/Domain.dll
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Application/bin/Debug/net5.0/Persistance.dll
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Application/bin/Debug/net5.0/Domain.pdb
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Application/bin/Debug/net5.0/Persistance.pdb
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Application/obj/Debug/net5.0/Application.csprojAssemblyReference.cache
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Application/obj/Debug/net5.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Application/obj/Debug/net5.0/Application.dll
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Application/obj/Debug/net5.0/ref/Application.dll
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/Application/obj/Debug/net5.0/Application.pdb
