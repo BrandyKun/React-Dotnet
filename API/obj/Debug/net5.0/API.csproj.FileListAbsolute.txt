@@ -85,3 +85,7 @@
 /Users/brandymkundenga/Desktop/Projects/ReactDotNet/API/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/brandymkundenga/Desktop/Projects/ReactDotNet/API/bin/Debug/net5.0/Humanizer.dll
 /Users/brandymkundenga/Desktop/Projects/ReactDotNet/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/API/bin/Debug/net5.0/MediatR.dll
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/API/bin/Debug/net5.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/API/bin/Debug/net5.0/AutoMapper.dll
+/Users/brandymkundenga/Desktop/Projects/ReactDotNet/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
